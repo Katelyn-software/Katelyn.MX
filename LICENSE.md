@@ -1,4 +1,4 @@
-Note: According to the Scratch ToS, all scratch projects are liscenced under Creative Commons Attribution-ShareAlike 2.0 (CC BY-SA 2.0), so this is basically that.
+NOTE: Since all Scratch projects are licensed under the Creative Commons Attriubtion-ShareAlike 2.0 license, this is basically just that.
 
 Attribution-ShareAlike 2.0
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
